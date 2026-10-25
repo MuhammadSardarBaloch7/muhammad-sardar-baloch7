@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54" fill="none">
+  <defs>
+    <linearGradient id="favGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5271FF"/>
+      <stop offset="100%" stop-color="#9B6DFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="7" width="40" height="34" rx="7" stroke="url(#favGrad)" stroke-width="4" fill="#0B1020"/>
+  <circle cx="12" cy="13.5" r="1.8" fill="#F4F7FF"/>
+  <circle cx="17" cy="13.5" r="1.8" fill="#F4F7FF"/>
+  <circle cx="22" cy="13.5" r="1.8" fill="#F4F7FF"/>
+  <rect x="27" y="12.5" width="13" height="2.5" rx="1.2" fill="#65E7F5"/>
+  <path d="M17.5 22.5L12 26.5L17.5 30.5" stroke="url(#favGrad)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23.5 20.5L20 33" stroke="url(#favGrad)" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M26.5 22.5L32 26.5L26.5 30.5" stroke="url(#favGrad)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 34L44.5 42.5L40.5 43.5L39.5 47.5L36 34Z" fill="url(#favGrad)"/>
+</svg>
